@@ -165,3 +165,4 @@ func main() {
     //  1: 111
 }
 ```
+#### &emsp;&emsp;看的出来，遍历数组的时候类似js中的 forEach， 遍历 map 数据的时候，类似js中的 for in
